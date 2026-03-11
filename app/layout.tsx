@@ -48,8 +48,6 @@ export default function RootLayout({
   return (
     <html lang="en" suppressHydrationWarning>
       <head>
-        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-        <meta name="description" content="Software Engineer specializing in scalable web applications, AI-powered tools, and design systems using React, Next.js, and cloud technologies." />
         <meta name="keywords" content="AI-powered UI, React, Next.js, TypeScript, design systems, frontend architecture, scalable web applications, cloud technologies" />
         <meta name="author" content="Zhao Feng Zeng" />
         <meta name="robots" content="index, follow" />

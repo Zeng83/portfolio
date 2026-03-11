@@ -18,7 +18,7 @@ const Introd = () => {
         </div>
 
         <h1 className="max-w-3xl text-4xl font-semibold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-          Crafting elegant <span className="text-emerald-300">AI-powered</span> web experiences with the calm and clarity of a forest.
+          Building scalable <span className="text-emerald-300">AI-powered web applications</span> and design systems with modern frontend technologies.
         </h1>
 
         <p className="mt-4 max-w-2xl text-sm leading-7 text-white/70 sm:text-base">
