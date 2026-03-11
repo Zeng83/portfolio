@@ -18,12 +18,11 @@ const Introd = () => {
         </div>
 
         <h1 className="max-w-3xl text-4xl font-semibold leading-tight tracking-tight sm:text-5xl lg:text-6xl">
-          Building elegant <span className="text-emerald-300">AI-powered</span> web experiences with a calm forest feel.
+          Crafting elegant <span className="text-emerald-300">AI-powered</span> web experiences with the calm and clarity of a forest.
         </h1>
 
         <p className="mt-4 max-w-2xl text-sm leading-7 text-white/70 sm:text-base">
-          A mobile-first personal portfolio designed to showcase engineering leadership, modern UI craftsmanship,
-          and thoughtful product thinking across desktop and mobile.
+          Design and build scalable web applications, AI-powered tools, and modern frontend platforms using React, Next.js, and cloud technologies. I’m passionate about solving complex technical challenges, improving developer productivity, and delivering products that create real value for users.
         </p>
 
         <div className="mt-6 flex flex-col gap-3 sm:flex-row">
