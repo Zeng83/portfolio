@@ -38,6 +38,13 @@ const Introd = () => {
           >
             View Experience
           </a>
+          <a
+            href="/ZhaoFengZeng.pdf"
+            download
+            className="rounded-2xl border border-emerald-300/30 bg-emerald-400/10 px-5 py-3 text-center text-sm font-semibold text-emerald-100 backdrop-blur-sm transition hover:bg-emerald-400/15"
+          >
+            Download CV
+          </a>
         </div>
 
         <div className="mt-8 grid grid-cols-2 gap-3 sm:grid-cols-3">

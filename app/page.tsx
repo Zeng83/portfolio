@@ -87,10 +87,9 @@ export default function HomePage() {
         <section className="mt-10 grid gap-4 lg:grid-cols-[0.9fr_1.1fr]">
           <section className="rounded-[2rem] border border-white/10 bg-white/5 p-5 backdrop-blur-xl">
             <p className="text-xs uppercase tracking-[0.22em] text-emerald-100/65">About</p>
-            <h3 className="mt-3 text-2xl font-semibold">Nature-inspired, high-trust product presence</h3>
+            <h3 className="mt-3 text-2xl font-semibold">Crafting Digital Experiences</h3>
             <p className="mt-4 text-sm leading-7 text-white/72">
-              This concept combines AI aesthetics with an organic visual language: dark evergreen layers, soft glow accents,
-              clean typography, and content blocks that feel both premium and approachable.
+              I’m a Principal Software Engineer focused on modern web architecture, AI-powered applications, and scalable frontend platforms. My work combines React, Next.js, and cloud technologies to create fast, elegant, and highly interactive user experiences.
             </p>
             <div className="mt-6 grid grid-cols-2 gap-3">
               <div className="rounded-2xl border border-white/10 bg-black/10 p-4">
